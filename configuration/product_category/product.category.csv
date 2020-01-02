@@ -3,7 +3,7 @@
 "product.categ_services_general_surgery_orders","General Surgery","","Periodic (manual)","Standard Price","Normal","hsc_account_4299",""
 "product.categ_services_lab_histo_test_orders","Histopathology","","Periodic (manual)","Standard Price","Normal","hsc_account_4299",""
 "product.categ_services_lab_test_orders","Laboratory","","Periodic (manual)","Standard Price","Normal","hsc_account_4299",""
-"product.categ_services_materials_orders","Materials","","Periodic (manual)","Standard Price","Normal","hsc_account_4299",""
+"product.categ_products_materials_orders","Materials","","Periodic (manual)","Standard Price","Normal","hsc_account_4299",""
 "product.categ_services_maxillo_orders","Maxillofacial","","Periodic (manual)","Standard Price","Normal","hsc_account_4299",""
 "product.categ_services_obstetrics_orders","Obstetrics","","Periodic (manual)","Standard Price","Normal","hsc_account_4299",""
 "product.categ_services_ophtamology_orders","Ophtamology","","Periodic (manual)","Standard Price","Normal","hsc_account_4299",""
