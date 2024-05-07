@@ -54,3 +54,11 @@ init.886a17f3-1fe5-48b4-a865-8cb14e40583c,Stress Test,product.categ_services_rad
 init.d83efa3d-0d52-40e3-88f5-ecdd4d2162e0,Thorax,product.categ_services_radiology_orders,service,FALSE,TRUE,Ordered quantities
 init.2e62356d-4458-4e71-9fd8-d51c2d2fe2f9,Toe (3 Vieux),product.categ_services_radiology_orders,service,FALSE,TRUE,Ordered quantities
 init.19d88c5b-139f-41a6-9e2e-11354f374d74,Voie Urinaire/Bladder,product.categ_services_radiology_orders,service,FALSE,TRUE,Ordered quantities
+init.53e7a255-6f12-43b2-a016-b62219a65c6a,Échographie transfontanellaire,product.categ_services_radiology_orders,Service,FALSE,TRUE,Ordered quantities
+init.48b209d7-90cb-41b8-8f36-e9ad9c1084db,Échographie acromio-claviculaire,product.categ_services_radiology_orders,Service,FALSE,TRUE,Ordered quantities
+init.5cc208b3-70c8-4f38-a3f7-072f34df366a,Échographie du coude,product.categ_services_radiology_orders,Service,FALSE,TRUE,Ordered quantities
+init.cfee44fb-0f7f-44df-abda-c74ad766bcbf,Échographie des hanches (bassin),product.categ_services_radiology_orders,Service,FALSE,TRUE,Ordered quantities
+inti.05c952e6-277d-4491-9d54-7dfc2665afb0,Échographie du genou,product.categ_services_radiology_orders,Service,FALSE,TRUE,Ordered quantities
+init.784fbf7a-1bdc-4426-b2e7-c08eee0b37ba,Repas baryté,product.categ_services_radiology_orders,Service,FALSE,TRUE,Ordered quantities
+init.dc09435d-c9f5-420c-96a5-fa7dbf8592f0,Hystérosalpingographie,product.categ_services_radiology_orders,Service,FALSE,TRUE,Ordered quantities
+init.ba843109-ac81-457f-9db7-ba773fc4a610,Tomographie,product.categ_services_radiology_orders,Service,FALSE,TRUE,Ordered quantities

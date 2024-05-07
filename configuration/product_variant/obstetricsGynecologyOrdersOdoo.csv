@@ -48,3 +48,11 @@ init.89cb4e88-9a81-40fb-a82d-3da6dbe00cc4,Reprise paroi (intervention à l'HSC),
 init.b067bdf1-0b01-480b-a903-6b83f64448f1,Reprise paroi (intervention hors HSC),product.categ_services_obstetrics_orders,service,FALSE,TRUE,Ordered quantities
 init.c94b4d7f-ded9-4e69-b718-1f1b50fc7247,Salpingiectomie - grossesse ectopique,product.categ_services_obstetrics_orders,service,FALSE,TRUE,Ordered quantities
 init.e5543ee9-f205-4f74-8e64-80258e71266c,Usage Ballonnet de Bakri,product.categ_services_obstetrics_orders,service,FALSE,TRUE,Ordered quantities
+init.1549cd2c-d2df-4cd6-81a7-24d077cfa4e9,Pansement,product.categ_services_procedure_orders,service,FALSE,TRUE,Ordered quantities
+init.84d72cd3-533a-4f39-a9d4-fd66238bf2e0,Reprise episiorraphie,product.categ_services_procedure_orders,service,FALSE,TRUE,Ordered quantities
+init.83b8a2ea-0aaf-4247-b7c6-1c1fc998189e,Laceroraphie périnéal en SOP,product.categ_services_procedure_orders,service,FALSE,TRUE,Ordered quantities
+init.9b7da037-a5be-4a02-b2eb-9fd731f8b1af,Laceroraphie du col en SOP,product.categ_services_procedure_orders,service,FALSE,TRUE,Ordered quantities
+init.5437e55c-1bf7-41f8-948f-49ef7c47e93d,Grand pansement,product.categ_services_procedure_orders,service,FALSE,TRUE,Ordered quantities
+init.4870b343-dedd-491e-98b2-480e74994246,Expulsion,product.categ_services_procedure_orders,service,FALSE,TRUE,Ordered quantities
+init.0589b1f7-c3a4-4ba3-89f0-637d7738b0eb,Dossier d'urgence en maternité,product.categ_services_procedure_orders,service,FALSE,TRUE,Ordered quantities
+init.765b8e48-daf7-402d-ae8d-e65b9f3d85a0,Curetage en salle,product.categ_services_procedure_orders,service,FALSE,TRUE,Ordered quantities
